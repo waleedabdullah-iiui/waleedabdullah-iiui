@@ -1,6 +1,6 @@
 ![banner](https://github.com/waleedabdullah-iiui/waleedabdullah-iiui/blob/main/Content-Creator-LinkedIn-Banner-.png?raw=true)
 <h1 align="center">Hi 👋, I'm Waleed abdulah</h1>
-<h3 align="center">A passionate Information Technology Expert pakistan</h3>
+<h3 align="center">A passionate Information Technology Expert from pakistan</h3>
 
 <h>Enrolled in BS Information Technology 🎓, I thrive on the magic of "code" 💻👨‍💻. Join me in vibrant coding spaces and Graphic Designing , where we unleash creativity and build a network for epic code jams! 🚀✨</h> 
 
