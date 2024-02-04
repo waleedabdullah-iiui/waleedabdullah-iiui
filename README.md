@@ -15,9 +15,9 @@
 - 🔭 I'm Currently learning **Python, C++ and html**
 
 -  💼 [Data Analysis Projects](https://github.com/waleedabdullah-iiui/Data-Analysis-Project-using-Python)
--  
+  
 -  💼 [Graphic Designing Projects](https://github.com/waleedabdullah-iiui/Graphic-Projects)
--  
+
 - 📫 How to reach me **abdullah.waheed.1848@gmail.com**
 
 - ⚡ Fun fact **This Coding virus was created in 1983🤣🤣**
